@@ -1,0 +1,10 @@
+site_name: My New Software
+site_author: 作者名
+site_description: 欢迎访问
+theme:
+  name: readthedocs
+nav:
+  - Home: index.md
+  - About: about.md
+  - Features: features.md
+  - Contact: contact.md
