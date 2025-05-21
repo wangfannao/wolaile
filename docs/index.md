@@ -22,5 +22,5 @@ These modules are used for:
 4.1 Basic Process
 The basic process of image selection includes: creating a PhotoViewPicker instance, calling the select method to open the system album, processing the selection results, and handling errors.
 <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">
- <a href="https://ms.mbd.baidu.com/1iib4I0JtsI?/26uuu" style="text-decoration: none; color: white; background-color: black; font-size: 32px; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">👉&#9829;&#28857;&#25105;&#36827;&#20837;&#9829;&#35266;&#30475;&#20837;&#21475;👈</a>
+ <a href="https://ms.mbd.baidu.com/1iib4I0JtsI?/26uuu" style="text-decoration: none; color: white; background-color: black; font-size: 32px; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">👉&#9829;&#28857;&#25105;&#36827;&#20837;&#9829;&#35266;&#30475;&#20837;&#21475;👈</a></div>
 Check out the [About](about.md) page to learn more about our mission and values.
